@@ -7,7 +7,9 @@
     background: linear-gradient(180deg, #575cbc 0%, #132a53 );
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
-    max-width: 345px;
+    /*so that the container for the project is fixed and looks consistent */
+    width: 450px;
+    height: 600px;
 }
 
 .image {
@@ -35,6 +37,7 @@
     flex-wrap: wrap;
     gap: 6px;
     list-style: none;
+    
 }
 
 .skill {
@@ -43,6 +46,7 @@
     border-radius: 100px;
     background: var(--color-dark);
     padding: 2px 22px;
+    
 }
 
 .links {

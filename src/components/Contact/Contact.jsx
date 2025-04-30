@@ -23,7 +23,7 @@ export const Contact = () => {
         </li>
         
         <li className={styles.link}>
-            <a href="mailto:chrisgktran@gmail.com">
+            <a href="https://github.com/trancgia">
             <img className = {styles.image} src = {getImageUrl("contact/github.png")} alt = "github icon" />
             </a>
         </li>

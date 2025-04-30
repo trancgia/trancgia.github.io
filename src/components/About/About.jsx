@@ -17,7 +17,10 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3>Frontend developer</h3>
                             <p>
-                                I am a frontend developer who utilizes HTML, CSS, and React to build consistent and optimized websites
+                                Django and ReactJS for Web Dev.
+                            </p>
+                            <p>
+                                Flutter and Kotlin for Mobile Apps
                             </p>
                         </div>
                     </li>

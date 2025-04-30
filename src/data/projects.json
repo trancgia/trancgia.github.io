@@ -2,17 +2,26 @@
     {
       "title": "Personal Website",
       "imageSrc": "project/personalSite.png",
-      "description": "Created a personal website using Vite with React. The front end was done with CSS and html and the backend was done with Javascript and JSON.",
-      "skills": ["JavaScript", "React", "HTML", "CSS", "JSON"],
+      "description": "",
+      "skills": ["JavaScript", "ReactJS + Vite", "HTML", "CSS", "JSON"],
       "demo": "https://trancgia.github.io/",
       "source": "https://github.com/trancgia/trancgia.github.io"
     },
     {
       "title": "aiMessages",
       "imageSrc": "project/aiMessages.png",
-      "description": "An iMessage inspired chatbot created using Vite with React. Utilized the Gemini AI API as language model. ",
-      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "description": "",
+      "skills": ["ReactJS + Vite","HTML", "CSS", "JavaScript", "API Integration"],
       "demo": "https://trancgia.github.io/aiMessages/",
       "source": "https://github.com/trancgia/AImessages_basecode.github"
+    }
+    ,
+    {
+      "title": "Library Web Application",
+      "imageSrc": "project/library.png",
+      "description": "",
+      "skills": ["Django","AWS S3", "CSS", "PostreSQL", "Python", "API Integration", "HTML", "Heroku"],
+      "demo": "https://www.a22library.com/",
+      "source": "https://github.com/trancgia"
     }
   ]

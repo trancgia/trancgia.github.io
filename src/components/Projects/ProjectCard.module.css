@@ -8,14 +8,17 @@
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     /*so that the container for the project is fixed and looks consistent */
-    width: 450px;
-    height: 600px;
+    max-width: 450px;
+    max-height: 550px;
+    align-items: center;
 }
 
 .image {
     margin-bottom: 26px;
-    width: 300px;
+    width: 350px;
+    height: 200px;
     border-radius: 10px;
+    
 }
 
 .title {
@@ -25,7 +28,7 @@
 
 .description {
     margin-top: 6px;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 400;
 }
 
@@ -35,13 +38,13 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 10px;
     list-style: none;
     
 }
 
 .skill {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 400;
     border-radius: 100px;
     background: var(--color-dark);
@@ -51,7 +54,7 @@
 
 .links {
     width: 100%;
-    margin-top: 26px;
+    margin-top: 20px; /* margin-top: auto pushes the links to the bottom */
     display: flex;
     justify-content: space-around;
 }

@@ -1,6 +1,14 @@
 [
     {
-        "role": "UI/UX Designer",
+        "role": "UX/UI Design Intern",
+        "organization": "LEARN Labs: thinccc",
+        "startDate": "Jan. 2025",
+        "endDate": "May 2025",
+        "experiences": ["Used Figma to create high-fidelity wireframes for an educational program used by thousands of students from Title I schools", "Conducted detailed and monthly website audits for LEARN Labs' education site, analyzing performance metrics, identifying content gaps, and testing functionality"],
+        "imageSrc": "history/tCF.png"
+    },
+    {
+        "role": "UX/UI Designer",
         "organization": "theCourseForum",
         "startDate": "Aug. 2023",
         "endDate": "June 2024",

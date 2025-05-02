@@ -24,4 +24,14 @@
       "demo": "https://www.a22library.com/",
       "source": "https://github.com/trancgia/library"
     }
+    ,
+    {
+      "title": "Apple Music Case Study",
+      "imageSrc": "",
+      "description": "Work in progress",
+      "skills": [""],
+      "demo": "",
+      "source": "/casestudy"
+      
+    }
   ]

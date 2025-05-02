@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import styles from "./Navbar.module.css"
 import { getImageUrl } from "../../utils";
+import { Link } from 'react-router-dom';
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -20,8 +21,10 @@ export const Navbar = () => {
                 <li><a href="#experience">experience</a></li>
                 <li><a href="#projects">projects</a></li>
                 <li><a href="#contact">contact</a></li>
+                
             </ul>
         </div>
+        
     </nav>
     );
 };

@@ -22,6 +22,6 @@
       "description": "",
       "skills": ["Django","AWS S3", "CSS", "PostreSQL", "Python", "API Integration", "HTML", "Heroku"],
       "demo": "https://www.a22library.com/",
-      "source": "https://github.com/trancgia"
+      "source": "https://github.com/trancgia/library"
     }
   ]
